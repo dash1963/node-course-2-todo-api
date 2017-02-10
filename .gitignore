@@ -1,1 +1,4 @@
 node_modules/
+move2git.sh
+mv2git.scr
+push2git.scr
